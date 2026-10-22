@@ -1,0 +1,17 @@
+
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>xnhau</title>
+  <meta http-equiv="refresh"
+        content="0; url=https://www.canva.com/design/DAHYvnLPlFA/Vv7Z_oX5VkU34wYjdNRJLw/edit">
+</head>
+<body>
+  <p>Đang chuyển đến trang của bạn...</p>
+  <a href="https://www.canva.com/design/DAHYvnLPlFA/Vv7Z_oX5VkU34wYjdNRJLw/edit">
+    Nhấn vào đây nếu không tự chuyển
+  </a>
+</body>
+</html>
